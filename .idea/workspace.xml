@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d125341-223d-4176-aad5-d5520558918a" name="Changes" comment="Terminei a relação entre tipo e felicidade dos pokemon">
+    <list default="true" id="9d125341-223d-4176-aad5-d5520558918a" name="Changes" comment="Atualização importantissima em alguns nomes do Objetivo da PokéAnálise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeAnalise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeAnalise.ipynb" afterDir="false" />
     </list>
@@ -44,15 +44,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Programação/Python/PokemonDataBase&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.intellij.featuresSuggester.FeatureSuggesterConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Programação/Python/PokemonDataBase",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,6 +75,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit." />
     <MESSAGE value="Terminei a relação entre tipo e felicidade dos pokemon" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terminei a relação entre tipo e felicidade dos pokemon" />
+    <MESSAGE value="Atualização importantissima em alguns nomes do Objetivo da PokéAnálise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização importantissima em alguns nomes do Objetivo da PokéAnálise" />
   </component>
 </project>
